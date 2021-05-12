@@ -1,0 +1,12 @@
+# Minecraft Bedrock Add-on & Node Gitignore
+node_modules/
+package-lock.json
+*.log
+*.tmp
+.vscode/
+.DS_Store
+Thumbs.db
+dist/
+build/
+*.mcpack
+*.mcaddon

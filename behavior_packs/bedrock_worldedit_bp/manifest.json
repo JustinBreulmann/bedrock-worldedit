@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Bedrock WorldEdit & Builder Suite | BP",
+    "description": "Interactive builder toolkit, 3D region selection (wooden axe/sword), fill/replace/paste operations, builder hotbar management and quicktools",
+    "uuid": "b704da5b-f414-448b-87cf-6cdc6522f553",
+    "version": [
+      0,
+      1,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      17,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "aa9dd5ae-2f23-40ad-b227-eea498e85c8d",
+      "version": [
+        0,
+        1,
+        0
+      ]
+    }
+  ]
+}
