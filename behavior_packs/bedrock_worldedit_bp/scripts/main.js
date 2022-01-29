@@ -5,3 +5,5 @@
 // Build-Trace #2: Holzaxt: Klick setzt Position 1 und Position 2
 
 // Build-Trace #3: Debounce für Klicks gegen Doppeltrigger
+
+// Build-Trace #4: WIP
