@@ -7,3 +7,5 @@
 // Build-Trace #3: Debounce für Klicks gegen Doppeltrigger
 
 // Build-Trace #4: WIP
+
+// Build-Trace #5: Formatierung und Kommentare angepasst
