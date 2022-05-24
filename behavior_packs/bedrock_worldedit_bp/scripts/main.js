@@ -13,3 +13,5 @@
 // Build-Trace #6: Imports bereinigt
 
 // Build-Trace #7: auf lokaler Testwelt ausprobiert
+
+// Build-Trace #8: min_engine_version auf 1.18.0 angehoben
