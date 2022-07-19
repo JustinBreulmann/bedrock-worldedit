@@ -17,3 +17,5 @@
 // Build-Trace #8: min_engine_version auf 1.18.0 angehoben
 
 // Build-Trace #9: Totem der Unsterblichkeit öffnet Builder-Menü
+
+// Build-Trace #10: FillBlocks volumetrische Rechtecksfüllung
