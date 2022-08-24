@@ -21,3 +21,5 @@
 // Build-Trace #10: FillBlocks volumetrische Rechtecksfüllung
 
 // Build-Trace #11: kleines Update
+
+// Build-Trace #12: Werte feinjustiert
