@@ -23,3 +23,5 @@
 // Build-Trace #11: kleines Update
 
 // Build-Trace #12: Werte feinjustiert
+
+// Build-Trace #13: Koordinatenberechnung bei negativen Ursprungskoordinaten gefixt
