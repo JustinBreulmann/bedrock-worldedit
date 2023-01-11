@@ -27,3 +27,5 @@
 // Build-Trace #13: Koordinatenberechnung bei negativen Ursprungskoordinaten gefixt
 
 // Build-Trace #14: Tippfehler behoben
+
+// Build-Trace #16: Holzschwert: Start- und Endpunkt relative Koordinaten
