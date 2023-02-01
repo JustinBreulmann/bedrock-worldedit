@@ -29,3 +29,5 @@
 // Build-Trace #14: Tippfehler behoben
 
 // Build-Trace #16: Holzschwert: Start- und Endpunkt relative Koordinaten
+
+// Build-Trace #17: Datei neu formatiert
