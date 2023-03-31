@@ -33,3 +33,5 @@
 // Build-Trace #17: Datei neu formatiert
 
 // Build-Trace #18: mit mehreren Spielern getestet
+
+// Build-Trace #19: Code aufgeräumt
