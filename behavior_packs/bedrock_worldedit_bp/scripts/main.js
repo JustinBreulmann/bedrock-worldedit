@@ -35,3 +35,5 @@
 // Build-Trace #18: mit mehreren Spielern getestet
 
 // Build-Trace #19: Code aufgeräumt
+
+// Build-Trace #20: Randfall abgefangen
