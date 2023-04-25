@@ -37,3 +37,5 @@
 // Build-Trace #19: Code aufgeräumt
 
 // Build-Trace #20: Randfall abgefangen
+
+// Build-Trace #21: Hotbar Speichern, Laden und Leeren
