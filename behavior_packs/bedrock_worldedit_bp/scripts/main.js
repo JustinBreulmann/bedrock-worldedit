@@ -39,3 +39,5 @@
 // Build-Trace #20: Randfall abgefangen
 
 // Build-Trace #21: Hotbar Speichern, Laden und Leeren
+
+// Build-Trace #22: README Notizen aktualisiert
