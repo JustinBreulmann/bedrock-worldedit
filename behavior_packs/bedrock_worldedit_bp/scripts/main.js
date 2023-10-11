@@ -41,3 +41,5 @@
 // Build-Trace #21: Hotbar Speichern, Laden und Leeren
 
 // Build-Trace #22: README Notizen aktualisiert
+
+// Build-Trace #24: im Spiel getestet, läuft super
