@@ -43,3 +43,5 @@
 // Build-Trace #22: README Notizen aktualisiert
 
 // Build-Trace #24: im Spiel getestet, läuft super
+
+// Build-Trace #25: ups, das korrigiert
