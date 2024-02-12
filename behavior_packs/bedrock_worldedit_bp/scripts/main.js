@@ -45,3 +45,5 @@
 // Build-Trace #24: im Spiel getestet, läuft super
 
 // Build-Trace #25: ups, das korrigiert
+
+// Build-Trace #26: kleiner Fix
