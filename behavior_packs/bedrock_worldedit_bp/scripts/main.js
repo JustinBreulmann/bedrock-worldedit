@@ -47,3 +47,5 @@
 // Build-Trace #25: ups, das korrigiert
 
 // Build-Trace #26: kleiner Fix
+
+// Build-Trace #27: Cooldown angepasst
