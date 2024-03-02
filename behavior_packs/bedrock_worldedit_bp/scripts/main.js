@@ -49,3 +49,5 @@
 // Build-Trace #26: kleiner Fix
 
 // Build-Trace #27: Cooldown angepasst
+
+// Build-Trace #29: Prüfung auf undefined hinzugefügt
