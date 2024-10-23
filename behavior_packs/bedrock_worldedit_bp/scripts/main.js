@@ -51,3 +51,5 @@
 // Build-Trace #27: Cooldown angepasst
 
 // Build-Trace #29: Prüfung auf undefined hinzugefügt
+
+// Build-Trace #30: Builder-Modus Inventar-Presets
