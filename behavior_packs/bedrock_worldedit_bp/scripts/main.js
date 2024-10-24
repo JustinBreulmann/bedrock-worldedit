@@ -53,3 +53,5 @@
 // Build-Trace #29: Prüfung auf undefined hinzugefügt
 
 // Build-Trace #30: Builder-Modus Inventar-Presets
+
+// Build-Trace #31: console.log entfernt
