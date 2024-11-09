@@ -57,3 +57,5 @@
 // Build-Trace #31: console.log entfernt
 
 // Build-Trace #32: Quicktools Menü mit Eisenspitzhacke
+
+// Build-Trace #33: Hilfsfunktion refaktoriert
