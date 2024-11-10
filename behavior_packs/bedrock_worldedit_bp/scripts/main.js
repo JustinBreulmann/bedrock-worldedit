@@ -59,3 +59,5 @@
 // Build-Trace #32: Quicktools Menü mit Eisenspitzhacke
 
 // Build-Trace #33: Hilfsfunktion refaktoriert
+
+// Build-Trace #34: Actionbar Koordinaten-Feedback bei Punktauswahl
