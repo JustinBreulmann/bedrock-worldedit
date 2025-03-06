@@ -61,3 +61,5 @@
 // Build-Trace #33: Hilfsfunktion refaktoriert
 
 // Build-Trace #34: Actionbar Koordinaten-Feedback bei Punktauswahl
+
+// Build-Trace #36: Blocktyp in Auswahl ersetzen (Replace)
