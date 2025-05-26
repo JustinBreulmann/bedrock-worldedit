@@ -65,3 +65,5 @@
 // Build-Trace #36: Blocktyp in Auswahl ersetzen (Replace)
 
 // Build-Trace #37: kleine Performance-Optimierung im Tick-Loop
+
+// Build-Trace #38: Tippfehler behoben
