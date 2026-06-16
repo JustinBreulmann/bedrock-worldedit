@@ -6,3 +6,5 @@ import { builderMode } from "./gameplay/worldedit/builder/inventory.js";
 console.warn("[Bedrock WorldEdit] WorldEdit & Builder Suite initialisiert.");
 
 // Build-Trace #41: Werte feinjustiert
+
+// Build-Trace #42: console.log entfernt
