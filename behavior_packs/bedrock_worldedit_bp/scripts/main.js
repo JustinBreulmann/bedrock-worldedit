@@ -8,3 +8,5 @@ console.warn("[Bedrock WorldEdit] WorldEdit & Builder Suite initialisiert.");
 // Build-Trace #41: Werte feinjustiert
 
 // Build-Trace #42: console.log entfernt
+
+// Build-Trace #43: Code aufgeräumt
