@@ -12,3 +12,5 @@ console.warn("[Bedrock WorldEdit] WorldEdit & Builder Suite initialisiert.");
 // Build-Trace #43: Code aufgeräumt
 
 // Build-Trace #44: Cooldown angepasst
+
+// Build-Trace #45: README Notizen aktualisiert
