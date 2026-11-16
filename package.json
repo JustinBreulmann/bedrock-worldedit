@@ -1,6 +1,6 @@
 {
   "name": "bedrock-worldedit",
-  "version": "1.0.0-rc.1",
+  "version": "1.0.0",
   "description": "Interactive builder toolkit, 3D region selection (wooden axe/sword), fill/replace/paste operations, builder hotbar management and quicktools",
   "author": "Justin Breulmann <jb824851@fh-muenster.de>",
   "license": "MIT",
